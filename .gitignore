@@ -1,0 +1,13 @@
+models/
+data/
+outputs/
+checkpoints/
+*.pt
+*.onnx
+*.weights
+*.mp4
+*.zip
+*.tar.gz
+.DS_Store
+__pycache__/
+*.ipynb_checkpoints/
